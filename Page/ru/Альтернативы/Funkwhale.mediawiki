@@ -2,7 +2,7 @@
 
 ==Интерфейс==
 <gallery>
-File:ru/Альтернативы/Funkwhale Music.webp|Главная страница Funkwhale.
+File:ru/Альтернативы/Funkwhale Music.png|Главная страница Funkwhale.
 </gallery>
 
 ==Особенности==

@@ -1,4 +1,4 @@
-[https://joinmastodon.org '''Mastodon'''] — это федеративный микроблог, работающий по протоколу [[wikipedia:ActivityPub|ActivityPub]] и практически достигнувший паритета по функциональности с централизованным [[Twitter]].
+[https://joinmastodon.org '''Mastodon'''] — это федеративный микроблог, работающий по протоколу [[ru/ActivityPub/Main Page|ActivityPub]] и практически достигнувший паритета по функциональности с централизованным [[ru/Вредители/Twitter]].
 
 ==Интерфейс==
 <gallery>

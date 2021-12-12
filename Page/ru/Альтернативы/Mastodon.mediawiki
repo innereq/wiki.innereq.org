@@ -2,10 +2,10 @@
 
 ==Интерфейс==
 <gallery>
-File:Mastodon Login.webp|Страница входа Mastodon.
-File:Mastodon Single Column.webp|Одноколонный интерфейс Mastodon.
-File:Mastodon Multi Column.webp|Многоколонный интерфейс Mastodon.
-File:Mastodon Profile.webp|Профиль пользователя Mastodon.
+File:ru/Альтернативы/Mastodon Login.png|Страница входа Mastodon.
+File:ru/Альтернативы/Mastodon Single Column.png|Одноколонный интерфейс Mastodon.
+File:ru/Альтернативы/Mastodon Multi Column.png|Многоколонный интерфейс Mastodon.
+File:ru/Альтернативы/Mastodon Profile.png|Профиль пользователя Mastodon.
 </gallery>
 
 ==Особенности==

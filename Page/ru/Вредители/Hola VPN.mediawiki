@@ -1,0 +1,33 @@
+'''Hola VPN''' — «бесплатный» сервис VPN.
+
+Если точнее, для конечных пользователей это прокси, так как они не получают возможность воспользоваться «виртуальными частными сетями» — то есть непосредственно VPN. Но интересно, что этой возможностью активно пользуется сам провайдер, строя с помощью виртуальной частной сети систему монетизации.
+
+== Hola Botnet ==
+Hola в этом плане более открыты, чем большинство их конкурентов — но это не делает их менее вредительским сервисом. Если никто на рынке не объясняет, почему их «бесплатный» сервис является таковым, то Hola прямо говорит: все бесплатные пользователи Hola VPN являются участниками внутренней виртуальной сети Hola VPN, через которую перенаправляется трафик других пользователей Hola VPN. Для отключения такого поведения предложена покупка премиальной подписки. То есть '''все бесплатные пользователи Hola VPN являются организованным ботнетом''' для сокращения расходов компании Hola и обслуживания премиальных пользователей. https://web.archive.org/web/20201024123113/https://hola.org/faq
+
+<blockquote>Hola VPN is the first community powered (Peer-to-Peer) VPN, where users help other users make the web world-wide again. This means that Hola VPN routes your traffic through other peers (nodes) in the Hola VPN network, as opposed to routing through power-hungry costly servers.
+Your use of Hola Free VPN Proxy is free of charge in exchange for safely using some of your device's resources (WiFi and very limited cellular data), and only when you are not using your device.</blockquote>
+
+Что характерно, здесь же Hola признаются, что их сервис является прокси, а не VPN.
+
+<blockquote>All clients are connected to our standard data center proxy servers using https proxy or IKEv2.</blockquote>
+
+А на платформах, где такая вирусная деятельность труднореализуемая, например, в браузерных дополнениях, Hola VPN не может себе такое позволить.
+
+<blockquote>Chrome browser extension and Opera browser add-on operate as a standard VPN service, and are not part of the Hola VPN peer-to-peer network</blockquote>
+
+И не стоит забывать, что Hola хранит всю историю посещённых вами сайтов, которую может передать третьим лицам в любой момент.
+
+<blockquote>Hola makes it clear on its web site that it employs technology to catch potentially malicious uses of its network, and that we do keep logs and will report any malicious use to the authorities.</blockquote>
+
+В конечном итоге бесплатные пользователи Hola VPN являются мощностями, с помощью которых Hola также развивает свой корпоративный сервис Luminati.
+
+=== Последствия ===
+Уточним проблематику: ваше устройство является выходной точкой для других людей в сети, то есть '''другие люди используют ваш IP для своих целей'''. Приложения Hola являются [https://www.gnu.org/proprietary/proprietary.ru.html несвободными программами], поведение которых вам неподконтрольно. Это достаточно широкий вектор для возможных атак на пользователей: вы буквально устанавливаете себе на устройство вирус, доверяя «на добром слове» обещанию Hola никогда им не злоупотреблять. И даже без прямого вмешательства Hola вы находитесь в опасности: пользователи премиальных сервисов Hola VPN и Luminati не участвуют в ботнете, но могут использовать трафик устройств оттуда. Можно предположить ситуацию, что пользователь такого премиального сервиса совершил что-то незаконное, '''но IP будет вашим''' или другого «счастливчика».
+
+Ботнет Hola/Luminati VPN использовался для DDoS-атак на сайты. https://www.techspot.com/news/60828-popular-free-vpn-service-hola-dodgy.html
+
+Hola VPN допускает утечку IP-адреса пользователя. https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/shining-a-light-on-the-risks-of-holavpn-and-luminati
+
+=== Альтернативы ===
+Hola VPN схожа в своей работе на [https://www.torproject.org/ децентрализованную сеть Tor], но при этом она не пытается помочь пользователю, а, наоборот, компрометирует и использует его. Tor и [https://www.torproject.org/download/ сопутствующий ему Tor Browser] являются [https://www.gnu.org/philosophy/free-sw.ru.html свободными программами] с фокусом на обезличивание пользователя и помощь в обходе блокировок в Интернете.

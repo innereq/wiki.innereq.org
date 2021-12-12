@@ -1,0 +1,22 @@
+==Cambridge Analytica==
+Facebook был уличён в сотрудничестве с Cambridge Analytica — компанией, предоставляющей политические консалтинговые услуги, — в ходе которого последняя использовала данные не менее 50 миллионов пользователей для того, чтобы повлиять на результаты выборов. Brexit, Трамп — это их рук дело. И менее известные дела тоже. Об этом даже кинцо сняли.
+
+*https://www.bbc.com/russian/features-43475612
+*https://www.bbc.com/news/technology-43649018
+*https://www.thegreathack.com
+
+== Утечка данных 533 миллионов пользователей ==
+https://www.businessinsider.com/stolen-data-of-533-million-facebook-users-leaked-online-2021-4
+
+==«Язык ненависти» и прочие сосиски==
+Как бы это не было удивительно, но Facebook может забанить за оскорбление чувств верующих. Например, [https://starshinazapasa.livejournal.com/853865.html за фото сосисочек], [https://starshinazapasa.livejournal.com/1092738.html волонтёрство], [https://suprun.doctor/kultura/navit-administratori-facebook-ne-zupinyat-pravdu-chas-yakoyi-nastav.html упоминание Степана Бандеры], [https://news.liga.net/politics/news/babchenko-navsegda-zabanili-v-facebook критику политиков и несогласие с политикой государства, не являющегося Эквестрией]. В то же время призывы к расправам на улицах и нападению на другие государства, очевидно, считаются нормой. Впрочем, Facebook может спокойно забанить ваш аккаунт по любой другой причине, о которой вы скорей всего даже не узнаете, тому есть неоднократные свидетельства <small>Полупруф: https://libranet.de/display/0b6b25a8-205f-7dfb-7249-aba136694458</small>. Даже если аккаунт только зарегистрирован и не мог ничего нарушить в принципе.
+
+== Загрузка истории звонков и SMS с телефонов пользователей ==
+https://arstechnica.com/information-technology/2018/03/facebook-scraped-call-text-message-data-for-years-from-android-phones/
+
+Facebook годами загружал к себе на серверы историю звонков и SMS. Некоторые источники считают, что это делалось втайне от пользователей.
+
+== Запрет группы Burzum ==
+https://www.metalunderground.com/news/details.cfm?newsid=148791
+
+Facebook без объяснения причин запретил упоминать блэк-метал группу Burzum, ссылаясь на «нарушение правил сообщества». Скорее всего, это является баном личности [https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B5%D1%80%D0%BD%D0%B5%D1%81,_%D0%92%D0%B0%D1%80%D0%B3 Варга Викернеса] — основателя группы, придерживающегося неонацистских взглядов. В рамках самого проекта Burzum, впрочем, эти взгляды не распространяются — музыка группы является аполитичной и не может нарушать правила.
